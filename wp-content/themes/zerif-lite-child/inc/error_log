@@ -1,0 +1,12 @@
+[29-Jan-2016 03:42:01 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 03:57:04 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 03:57:04 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 133
+[29-Jan-2016 04:27:05 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 04:43:13 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 04:43:13 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 04:46:23 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 04:46:24 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 04:47:34 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 04:47:35 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 04:51:29 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3
+[29-Jan-2016 04:51:29 America/Denver] PHP Notice:  Undefined index: check in /home2/thecann8/public_html/wp-content/themes/zerif-lite-child/inc/onfleet.php on line 3

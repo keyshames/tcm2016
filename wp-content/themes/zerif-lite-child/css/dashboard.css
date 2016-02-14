@@ -1,0 +1,83 @@
+#dashboard {
+	padding: 50px 0;	
+}
+#dashboard .row {
+	float: none;	
+}
+#dashboard .page-header {
+    padding-bottom: 9px;
+    margin: 0 0 20px;
+    border-bottom: 1px solid #eee;
+}
+#dashboard .progress {
+	height: 50px;
+}
+#dashboard .progress-bar-success {
+	min-width: 15px;
+    background-color: #23a941;
+}
+#dashboard .huge {
+	font-size: 40px;	
+}
+#dashboard a {
+	color: rgb(64, 64, 64);
+}
+#dashboard a:hover {
+	color: #23a941;
+	text-decoration: none;
+	cursor: pointer;
+}
+#dashboard th {
+	border-top: 0
+}
+#dashboard .glyphicon-piggy-bank {
+	font-size: 5em;
+}
+#dashboard .referral-url a {
+	font-size: 24px;
+}
+#dashboard .badge-icon {
+	width:  120px;
+	padding: 0 15px;
+}
+#dashboard .color {
+	color: #23a941;
+}#dashboard .badge-wrap {
+	margin-bottom: 20px;
+}
+#dashboard .modal {
+	margin-top: 5%;		
+}
+#dashboard [src^="data"] {
+	width: 70px;
+  	height: 70px;
+  	max-width: none;
+  	color: rgb(51,51,51)!important;
+}
+@media only screen and (max-width: 480px) {
+	#dashboard .badge-wrap img:nth-child(1), .badge-wrap img:nth-child(2) {
+		margin-bottom: 10px; 
+	}
+	#dashboard .email {
+		font-size: 14px!important;
+		font-size: 4.5vw !important; 
+	  	overflow: scroll;
+	}
+}
+.um-form .fa {
+	font-family: FontAwesome!important;
+	padding-right: 10px;
+}
+.um-form .um-account-heading {
+	font-size: 18px;
+}
+
+
+#benefits h1 span {font-family: Lato; font-weight: 500;}
+#benefits p:nth-of-type(odd) {margin-bottom: 14px;}
+#benefits tr:nth-of-type(1) td {font-weight: bold;}
+#benefits td:nth-child(n+2) {text-align: center}
+#benefits .fa-check {color: #23a941;}
+#benefits .scroll {overflow: auto;}
+
+
